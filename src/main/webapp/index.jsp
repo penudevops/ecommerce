@@ -794,10 +794,10 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartmobiless</a>
                             <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
+                            <a href="#"><i class="fas fa-headmobiless"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
@@ -845,7 +845,7 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>Smartmobiless</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
@@ -859,7 +859,7 @@
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-headphones"></i></div>
+                <div class="category-icon"><i class="fas fa-headmobiless"></i></div>
                 <h3>Gadgets</h3>
                 <p>Smart devices for modern life</p>
             </div>
@@ -886,9 +886,9 @@
         <div class="products">
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
+                <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartmobiles" class="product-img">
                 <div class="product-info">
-                    <h3>i phone 14 Pro Max</h3>
+                    <h3>i mobiles 14 Pro Max</h3>
                     <div class="price">$1499 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -951,7 +951,7 @@
                 </div>
             </div>
             <div class="product-card">
-                <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headphones" class="product-img">
+                <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headmobiless" class="product-img">
                 <div class="product-info">
                     <h3>Sony WH-1000XM5</h3>
                     <div class="price">$399</div>
